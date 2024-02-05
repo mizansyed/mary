@@ -22,7 +22,7 @@
         "alpinejs"
     ],
     "require": {
-        "illuminate/support": "~10",
+        "illuminate/support": "^10",
         "blade-ui-kit/blade-heroicons": "^2.1",
         "jfcherng/php-diff": "^6.15",
         "laravel/prompts": "^0.1.11"
